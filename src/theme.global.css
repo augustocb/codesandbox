@@ -1,0 +1,70 @@
+body,button,input,optgroup,select,textarea,span,h1,h2,h3,h4,p1 {
+  /* font-family: Fabriga,-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif */
+}
+
+html, body, #render-container, #render-provider, #render-provider > article {
+  min-height: 100%;
+}
+
+body {
+  background-color: white;
+}
+
+.momentum {
+  -webkit-overflow-scrolling: touch;
+}
+
+body,
+.render-container,
+.render-provider {
+  height: 100%;
+}
+
+.render-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.truncate {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hello-appear {
+  animation-duration: 200ms;
+  animation-name: hello;
+  animation-timing-function: ease-in;
+}
+
+@keyframes hello {
+  0% {
+    transform: translateY(100%);
+	}
+
+	100% {
+		transform: translateY(0%);
+  }
+  
+}
+
+.cart-appear {
+  animation-duration: 200ms;
+  animation-name: cart;
+  animation-timing-function: ease-in;
+}
+
+@keyframes cart {
+  0% {
+    transform: translateX(100%);
+	}
+
+	100% {
+		transform: translateX(0%);
+  }
+  
+}

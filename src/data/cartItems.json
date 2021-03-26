@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/1292273-500-500/Sofa-3-Lugares-Nozes-oats-Law.jpg",
+      "name": "Amazing Modern Living Sofa",
+      "quantity": 5,
+      "variations": [
+        {
+          "name": "color",
+          "value": "Pretty Gray"
+        }
+      ],
+      "price": {
+        "list": 299,
+        "old": 399
+      }
+    },
+    {
+      "id": 1,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/1218755-500-500/Kit-Colheres-4pcs-Natural-multicor-Bamboo.jpg",
+      "name": "Colorfull Spoon Kit",
+      "quantity": 2,
+      "price": {
+        "list": 32,
+        "old": 40
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/1282070-500-500/Mesa-Lateral-Baixa-Red-60-Preto-nozes-Rustico-Jahari.jpg",
+      "name": "Brown Woody Table",
+      "quantity": 1,
+      "variations": [
+        {
+          "name": "size",
+          "value": "Small"
+        },
+        {
+          "name": "diameter",
+          "value": "80cm"
+        }
+      ],
+      "price": {
+        "list": 149
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/2259880-500-500/chindi-tapete-50-cm-x-70-cm-multicor-multi-chindi_st0.jpg?v=637292131915570000",
+      "name": "Multi Chindi tapete",
+      "quantity": 1,
+      "variations": [
+        {
+          "name": "color",
+          "value": "Multicolor"
+        }
+      ],
+      "price": {
+        "list": 29.9
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/2135808-500-500/cesto-roupa-60-cm-x-40-cm-x-30-cm-natural-cream-kabuki_st0.jpg?v=637157537198530000",
+      "name": "Kabuki cesto de roupa",
+      "quantity": 1,
+      "variations": [
+        {
+          "name": "color",
+          "value": "Natural/cream"
+        }
+      ],
+      "price": {
+        "list": 162.9,
+        "old": 179.9
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://tokstok.vteximg.com.br/arquivos/ids/1828941-500-500/Cadeira-Ultramarine-Profundo-Juno.jpg?v=637015784192200000",
+      "name": "Juno Cadeira",
+      "quantity": 1,
+      "variations": [
+        {
+          "name": "color",
+          "value": "Ultramarine profundo"
+        }
+      ],
+      "price": {
+        "list": 359,
+        "old": 399
+     }
+    }
+  ]
+}
